@@ -1,0 +1,1 @@
+ In particular, serial port adapters using USB or other USB devices that appear as a serial port can introduce delays of 0.5 - 1 milliseconds for each output. 
